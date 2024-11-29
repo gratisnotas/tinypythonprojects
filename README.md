@@ -4,5 +4,4 @@ This project started as a curiosity. I was working on a series of interesting ti
 # tinypythonprojects
 A collection of tiny Python projects. The ideas were collected, besides from ideas pitched in by someof my friends and my imagination, from reddit suggestions.
 
-## List of Projects:
-1. Snake Game
+## Add List of Projects:
