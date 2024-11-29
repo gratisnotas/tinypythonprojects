@@ -1,6 +1,7 @@
 """
 A frequency-number bar chart of random sampling from range using matplotlib
 """
+
 # I start this journey, I realize
 # some have been here before,
 # some are yet to come,
