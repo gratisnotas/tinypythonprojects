@@ -1,0 +1,25 @@
+"""
+A frequency-number bar chart of random sampling from range using matplotlib
+"""
+# I start this journey, I realize
+# some have been here before,
+# some are yet to come,
+# I know I am here now
+
+import random
+
+A = {i : 0 for i in range(10)}
+
+for i in range(1000):
+    j = random.choice(range(10))
+    A[j] += 1
+    pass
+
+import matplotlib.pyplot as plt
+
+plt.bar(A.keys(), A.values())
+plt.title("random")
+plt.xlabel("numebers")
+plt.ylabel("frequency")
+
+plt.show()
