@@ -5,3 +5,4 @@ This project started as a curiosity. I was working on a series of interesting ti
 A collection of tiny Python projects. The ideas were collected, besides from ideas pitched in by someof my friends and my imagination, from reddit suggestions.
 
 ## Add List of Projects:
+- frequency-number bar chart of random sampling
