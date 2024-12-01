@@ -4,5 +4,5 @@ This project started as a curiosity. I was working on a series of interesting ti
 # tinypythonprojects
 A collection of tiny Python projects. The ideas were collected, besides from ideas pitched in by someof my friends and my imagination, from reddit suggestions.
 
-## Add List of Projects:
+## Add to List of [https://github.com/gratisnotas/tinypythonprojects](tinypythonprojects):
 - frequency-number bar chart of random sampling
