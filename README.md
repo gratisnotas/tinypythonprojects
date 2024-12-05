@@ -6,3 +6,4 @@ A collection of tiny Python projects. The ideas were collected, besides from ide
 
 ## Add to List of [tinypythonprojects](https://github.com/gratisnotas/tinypythonprojects):
 - frequency-number bar chart of random sampling
+- cumulative emotion mood study for random events and emotion triggers
